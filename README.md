@@ -1,7 +1,7 @@
 # WT-group-activity
 This is a Group Activity Task for the subject Advanced Web Technology
 
-3rd sem | CSE | Dr. AIT
+5th sem | CSE | Dr. AIT
 
 ------------------------------
 
