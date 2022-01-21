@@ -5,9 +5,17 @@ This is a Group Activity Task for the subject Advanced Web Technology
 
 ------------------------------
 
-Team Members
+Team Members - Group 12
 
-Tejas M N| Trishul Vishnu K T| Varun | Sumukha T S | Yash
+Tejas M N - 1DA19CS179
+
+Trishul Vishnu K T - 1DA19CS181
+
+Sumukha T S - 1DA19CS170
+
+Varun Hegde - 1DA19CS186
+
+Yash patrot - 1DA19CS191
 
 -------------------------------
 This repository contains 
