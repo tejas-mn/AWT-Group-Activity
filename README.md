@@ -5,7 +5,7 @@ This is a Group Activity Task for the subject Advanced Web Technology
 
 ------------------------------
 
-Team Members - Group 12
+Group Members - Group 12
 
 Tejas M N - 1DA19CS179
 
