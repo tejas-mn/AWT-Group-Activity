@@ -1,5 +1,5 @@
 # WT-group-activity
-This is a Group Activity Task for the subject Web Technology
+This is a Group Activity Task for the subject Advanced Web Technology
 
 3rd sem | CSE | Dr. AIT
 
@@ -7,7 +7,7 @@ This is a Group Activity Task for the subject Web Technology
 
 Team Members
 
-Suresh.S | Swathy.K | Tejas.M.N | Tejas Porwal | Trishul | Yogesh
+Tejas M N| Trishul Vishnu K T| Varun | Sumukha T S | Yash
 
 -------------------------------
 This repository contains 
